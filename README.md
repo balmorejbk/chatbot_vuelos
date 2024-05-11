@@ -1,5 +1,7 @@
 # Abrir el chatbot usando NLP
 
+Estos son los pasos y explicaciones para acceder al chatbot.
+
 1.- **Ir a la carpeta src/ y crear el archivo key.py**
 
 Paso 1: Acceder a la carpeta de chatbot_vuelos:
