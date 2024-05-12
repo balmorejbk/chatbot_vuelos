@@ -59,11 +59,13 @@ Paso 1: Cambiar de directorio del chatbot:
 
 Paso 2: Abrir el chatbot usando el streamlit:
 
+![image](https://github.com/balmorejbk/chatbot_vuelos/assets/66956963/00fd8d88-171c-4580-8fed-3723ae55585b)
+
 * Primero usas el streamlit run <archivo python>
 
 ![image](https://github.com/balmorejbk/chatbot_vuelos/assets/66956963/ad519833-fead-4dcd-8e8e-367b7b5b6821)
 
-* Luego se abre chatbot.
+* Luego se abre el chatbot.
 
   ![image](https://github.com/balmorejbk/chatbot_vuelos/assets/66956963/2949fd9c-4993-4302-bc57-615cb06de5dd)
 
