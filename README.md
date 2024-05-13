@@ -2,6 +2,7 @@
 
 ![image](https://github.com/balmorejbk/chatbot_vuelos/assets/66956963/cf390cae-153c-49ec-9775-92616f66084f)
 
+
 Estos son los pasos y explicaciones para acceder al chatbot.
 
 1.- **Ir a la carpeta src/ y crear el archivo key.py**
